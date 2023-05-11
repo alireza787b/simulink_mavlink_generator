@@ -1,4 +1,6 @@
-Description: This project provides a basic demonstration of how to create and transmit MAVLink messages for a custom drone from Simulink to any MAVLink-based ground stations or nodes. The code uses Simulink's MAVLink blockset, which is part of the UAV Toolbox, to generate the messages and transmit them via UDP on port 14550 on the localhost. This means that QGroundControl or any other MAVLink-based ground station connected to the same PC should be able to receive the messages automatically.
+![mav1](https://github.com/alireza787b/simulink_mavlink_generator/assets/30341941/ef55ef42-1252-4c9e-8c76-9a328f8deb76)
+
+This project provides a basic demonstration of how to create and transmit MAVLink messages for a custom drone from Simulink to any MAVLink-based ground stations or nodes. The code uses Simulink's MAVLink blockset, which is part of the UAV Toolbox, to generate the messages and transmit them via UDP on port 14550 on the localhost. This means that QGroundControl or any other MAVLink-based ground station connected to the same PC should be able to receive the messages automatically.
 
 Please note that the UAV Toolbox requires a separate license from MATLAB. However, if you don't have access to the UAV Toolbox, it is possible to create MAVLink messages manually, although this is more involved and may be harder for beginners. This project only demonstrates using the UAV Toolbox.
 
