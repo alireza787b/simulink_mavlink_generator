@@ -2,7 +2,14 @@ Description: This project provides a basic demonstration of how to create and tr
 
 Please note that the UAV Toolbox requires a separate license from MATLAB. However, if you don't have access to the UAV Toolbox, it is possible to create MAVLink messages manually, although this is more involved and may be harder for beginners. This project only demonstrates using the UAV Toolbox.
 
+YouTube Demo:
+https://youtu.be/rtTuKkhyDWM
+
+
+
 The project is available on GitHub and includes detailed instructions on how to use it. YouTube demos and more detailed examples will be added to the GitHub repository in the future.
+
+
 
 
 GitHub Repository: https://github.com/alireza787b/simulink_mavlink_generator
